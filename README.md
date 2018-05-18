@@ -1,4 +1,4 @@
-# GLP Monitoring-Box Deployment (Monitor Kubernetes Cluster & ECS Cluster)
+# Micoservice Monitoring Box (Kubernetes & ECS)
 
 
 ## Table of Contents
