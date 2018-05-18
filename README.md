@@ -1,12 +1,31 @@
 # GLP Monitoring-Box Deployment (Monitor Kubernetes Cluster & ECS Cluster)
 
-  - #### Monitoring-Box Infrastructure Deployment .
-  - #### Monitoring-Box Services Deployment .
-  - #### Addons Service Deployment .
 
 ## Table of Contents
 
-- [Getting Started](Change the VPC or subnet IP ranges)
+- [Getting Started](https://github.com/Hexworks/zircon#getting-started)
+  - [Some rules of thumb](https://github.com/Hexworks/zircon#some-rules-of-thumb)
+  - [Creating a Terminal](https://github.com/Hexworks/zircon#creating-a-terminal)
+  - [Working with Screens](https://github.com/Hexworks/zircon#working-with-screens)
+  - [Components](https://github.com/Hexworks/zircon#components)
+  - [Additional features](https://github.com/Hexworks/zircon#additional-features)
+    - [Layering](https://github.com/Hexworks/zircon#layering)
+    - [Input handling](https://github.com/Hexworks/zircon#input-handling)
+    - [Shape and box drawing](https://github.com/Hexworks/zircon#shape-and-box-drawing)
+    - [Fonts and tilesets](https://github.com/Hexworks/zircon#fonts-and-tilesets)
+    - [REXPaint file loading](https://github.com/Hexworks/zircon#rexpaint-file-loading)
+    - [Color themes](https://github.com/Hexworks/zircon#color-themes)
+    - [Animations (BETA)](https://github.com/Hexworks/zircon#animations-beta)
+    - [The API](https://github.com/Hexworks/zircon#the-api)
+- [A little Crash Course](https://github.com/Hexworks/zircon#a-little-crash-course)
+  - [Terminal](https://github.com/Hexworks/zircon#terminal)
+  - [Colors and StyleSets](https://github.com/Hexworks/zircon#colors-and-stylesets)
+  - [Modifiers](https://github.com/Hexworks/zircon#modifiers)
+  - [TextImages](https://github.com/Hexworks/zircon#textimages)
+  - [Screens](https://github.com/Hexworks/zircon#screens)
+- [Road map](https://github.com/Hexworks/zircon#road-map)
+- [License](https://github.com/Hexworks/zircon#license)
+- [Credits](https://github.com/Hexworks/zircon#credits)
 
 ## Infrastructure Deployment Overview
 
