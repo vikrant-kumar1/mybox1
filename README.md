@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-- [Getting Started](https://github.com/Hexworks/zircon#getting-started)
+- [Getting Started](https://github.com/vikrant-kumar1/mybox1#getting-started)
   - [Some rules of thumb](https://github.com/Hexworks/zircon#some-rules-of-thumb)
   - [Creating a Terminal](https://github.com/Hexworks/zircon#creating-a-terminal)
   - [Working with Screens](https://github.com/Hexworks/zircon#working-with-screens)
@@ -27,7 +27,7 @@
 - [License](https://github.com/Hexworks/zircon#license)
 - [Credits](https://github.com/Hexworks/zircon#credits)
 
-## Infrastructure Deployment Overview
+## Getting Started
 
 - Setup a new VPC with public and private subnets .
 - A highly available Monitoring-Box deployed on ECS Cluster across two [Availability Zones] with persitance storage (EBS).
