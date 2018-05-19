@@ -1,6 +1,6 @@
 # Micoservice Monitoring Box (Kubernetes & ECS)
 
-## Table of Contents
+## To start using Micoservice Monitoring Box
 
 - [Getting Started](https://github.com/vikrant-kumar1/mybox1#getting-started)
   - [Some rules of thumb](https://github.com/vikrant-kumar1/mybox1#some-rules-of-thumb)
