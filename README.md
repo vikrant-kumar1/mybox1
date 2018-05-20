@@ -38,6 +38,10 @@
 
 ## Getting Started
 
+### Interroduction
+
+Microservices give you flexibility , hyperscale  and room to grow and we observed some highlighted a series of challenges for monitoring cloud-native container-based systems, and introduced microservice monitoring , alerting  and visualisation tool, which may assist devops with testing microservice monitoring at scale.
+
 - Setup a new VPC with public and private subnets .
 - A highly available Monitoring-Box deployed on ECS Cluster across two [Availability Zones] with persitance storage (EBS).
 - An Application Load Balancer to the public subnets to handle inbound traffic.
