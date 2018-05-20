@@ -1,6 +1,5 @@
 # Micoservice Monitoring Box (Kubernetes & ECS)
 
-[![][circleci img]][circleci]
 
 ## To start using Micoservice Monitoring Box
 
@@ -15,15 +14,10 @@
     - [Kubernetes Monitoring](https://github.com/vikrant-kumar1/mybox1#kubernetes-monitoring)
     - [ECS Monitoring](https://github.com/vikrant-kumar1/mybox1#fonts-and-tilesets)
   - [Additional features](https://github.com/vikrant-kumar1/mybox1#additional-features)
-    - [Layering](https://github.com/vikrant-kumar1/mybox1#layering)
-    - [Input handling](https://github.com/vikrant-kumar1/mybox1#input-handling)
-    - [Shape and box drawing](https://github.com/vikrant-kumar1/mybox1#shape-and-box-drawing)
-    - [Fonts and tilesets](https://github.com/vikrant-kumar1/mybox1#fonts-and-tilesets)
-    - [REXPaint file loading](https://github.com/vikrant-kumar1/mybox1#rexpaint-file-loading)
-    - [Color themes](https://github.com/vikrant-kumar1/mybox1#color-themes)
-    - [Animations (BETA)](https://github.com/vikrant-kumar1/mybox1#animations-beta)
-    - [The API](https://github.com/vikrant-kumar1/mybox1#the-api)
-- [A little Crash Course](https://github.com/vikrant-kumar1/mybox1#a-little-crash-course)
+    - [High Availability](https://github.com/vikrant-kumar1/mybox1#high-availability)
+    - [Persistant Storage](https://github.com/vikrant-kumar1/mybox1#persistant-storage)
+    - [Jira Integration](https://github.com/vikrant-kumar1/mybox1#jira-integraion)
+- [Release](https://github.com/vikrant-kumar1/mybox1#release)
   - [Terminal](https://github.com/vikrant-kumar1/mybox1#terminal)
   - [Colors and StyleSets](https://github.com/vikrant-kumar1/mybox1#colors-and-stylesets)
   - [Modifiers](https://github.com/vikrant-kumar1/mybox1#modifiers)
