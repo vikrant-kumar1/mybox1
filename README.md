@@ -3,7 +3,7 @@
 
 ## To start using Micoservice Monitoring Box
 
-- [Getting Started](https://github.com/vikrant-kumar1/mybox1#getting-starte)
+- [Getting Started](https://github.com/vikrant-kumar1/mybox1#getting-started)
   - [Introduction](https://github.com/vikrant-kumar1/mybox1#introduction)
   - [Components](https://github.com/vikrant-kumar1/mybox1#components)
   - [Deployment](https://github.com/vikrant-kumar1/mybox1#deployment)
