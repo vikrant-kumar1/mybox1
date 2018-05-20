@@ -3,7 +3,7 @@
 ## To start using Micoservice Monitoring Box
 
 - [Getting Started](https://github.com/vikrant-kumar1/mybox1#getting-starte)
-  - [About Monitoring Box](https://github.com/vikrant-kumar1/mybox1#about-monitoring-box)
+  - [Interroduction](https://github.com/vikrant-kumar1/mybox1#interroduction)
   - [Components of Monitoring Box](https://github.com/vikrant-kumar1/mybox1#components-of-monitoring-box)
   - [Working with Screens](https://github.com/vikrant-kumar1/mybox1#working-with-screens)
   - [Components](https://github.com/vikrant-kumar1/mybox1#components)
