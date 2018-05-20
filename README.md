@@ -10,6 +10,7 @@
     - [Infrastructure Deployment](https://github.com/vikrant-kumar1/mybox1#infrastructure-deployment)
     - [Service Deployment](https://github.com/vikrant-kumar1/mybox1#service-deployment)
     - [Addons services Deployment](https://github.com/vikrant-kumar1/mybox1#addons-services-deployment)
+    - [Centralized Logging Deployment](https://github.com/vikrant-kumar1/mybox1#centralized-logging-deployment)
   - [Monitoring](https://github.com/vikrant-kumar1/mybox1#monitoring)
     - [Kubernetes Monitoring](https://github.com/vikrant-kumar1/mybox1#kubernetes-monitoring)
     - [ECS Monitoring](https://github.com/vikrant-kumar1/mybox1#fonts-and-tilesets)
