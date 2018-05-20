@@ -3,9 +3,13 @@
 ## To start using Micoservice Monitoring Box
 
 - [Getting Started](https://github.com/vikrant-kumar1/mybox1#getting-starte)
-  - [Interroduction](https://github.com/vikrant-kumar1/mybox1#interroduction)
-  - [Components of Monitoring Box](https://github.com/vikrant-kumar1/mybox1#components-of-monitoring-box)
-  - [Working with Screens](https://github.com/vikrant-kumar1/mybox1#working-with-screens)
+  - [Introduction](https://github.com/vikrant-kumar1/mybox1#introduction)
+  - [Components](https://github.com/vikrant-kumar1/mybox1#components)
+  - [Deployment](https://github.com/vikrant-kumar1/mybox1#deployment)
+    - [Infrastructure](https://github.com/vikrant-kumar1/mybox1#infrastructure)
+    - [Services](https://github.com/vikrant-kumar1/mybox1#services)
+    - [Adons services](https://github.com/vikrant-kumar1/mybox1#adons-services)
+    - [Fonts and tilesets](https://github.com/vikrant-kumar1/mybox1#fonts-and-tilesets)
   - [Components](https://github.com/vikrant-kumar1/mybox1#components)
   - [Additional features](https://github.com/vikrant-kumar1/mybox1#additional-features)
     - [Layering](https://github.com/vikrant-kumar1/mybox1#layering)
