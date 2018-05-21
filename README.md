@@ -49,6 +49,13 @@ This Code will deploy a monitoring box on AWS-ECS environment using CloudFormati
 
 ##  Deployment
 
+- Infrastructure Deployment
+- Service Deployment
+- Addons Service Deployment
+- Centralized Logging Deployment
+
+## Infrastructure Deployment
+
 - Setup a new VPC with public and private subnets .
 - A highly available Monitoring-Box deployed on ECS Cluster across two [Availability Zones] with persitance storage (EBS).
 - An Application Load Balancer to the public subnets to handle inbound traffic.
