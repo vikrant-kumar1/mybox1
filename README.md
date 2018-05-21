@@ -68,12 +68,14 @@ The templates below are included in this repository and reference architecture:
 | Template | Description |
 | --- | --- |
 | [master.yaml](master.yaml) | This is the master template - deploy it to CloudFormation and it includes all of the others automatically. |
+| Template | Description |
+| --- | --- |
 | [infrastructure/vpc.yaml](infrastructure/vpc.yaml) | This template deploys a VPC with a pair of public and private subnets spread across two Availability Zones. It deploys an [Internet gateway](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Internet_Gateway.html), with a default route on the public subnets. It deploys a pair of NAT gateways (one in each zone), and default routes for them in the private subnets. |
 | [infrastructure/security-groups.yaml](infrastructure/security-groups.yaml) | This template contains the [security groups](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_SecurityGroups.html) this will create a SecurityGroup for ALB and one SecurityGroup for ECS Nodes. |
 | [infrastructure/load-balancers.yaml](infrastructure/load-balancers.yaml) | This template deploys an ALB to the public subnets, which exposes the various ECS services. It is created in in a separate nested template, so that it can be referenced by all of the other nested templates and so that the various ECS services can register with it. |
 | [infrastructure/ecs-cluster.yaml](infrastructure/ecs-cluster.yaml) | This template deploys an ECS cluster to the private subnets using an Auto Scaling group and installs the AWS SSM agent with related policy requirements. |
-| [services/prometheus/service.yaml](services/prometheus/service.yaml) | This is an example of a long-running ECS service that serves a JSON API of products. For the full source for the service, see [services/prometheus/src](services/prometheus/src).|
-| [services/grafana/service.yaml](services/grafana/service.yaml) | This is an example of a long-running ECS service that needs to connect to another service (prometheus) via the load-balanced URL. We use an environment variable to pass the prometheus URL to the containers. For the full source for this service, see [services/grafana/src](services/grafana/src). |
+
+
 
 ## How do I...?
 
