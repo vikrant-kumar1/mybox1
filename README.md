@@ -40,7 +40,9 @@
 
 ## Interroduction
 
-Microservices give you flexibility , hyperscale  and room to grow and we observed some highlighted a series of challenges for monitoring cloud-native container-based systems, and introduced microservice monitoring , alerting  and visualisation tool, which may assist devops with testing microservice monitoring at scale.
+Microservices give you flexibility , hyperscale  and room to grow and we observed some highlighted a series of challenges for monitoring cloud-native container-based systems, and introduced microservice monitoring , alerting and visualisation tool, which may assist devops with testing microservice monitoring at scale.
+
+This Code will deploy the monitoring box on AWS-ECS environment using CloudFormation .Through this Box you can Monitor Kubernetes & ECS cluster Monitoring along with Kafka Monitoring ,CouchbaseDB Monitoring , LoadBalancer Monitoring and JVM & Application Monitoring .
 
 - Setup a new VPC with public and private subnets .
 - A highly available Monitoring-Box deployed on ECS Cluster across two [Availability Zones] with persitance storage (EBS).
