@@ -38,11 +38,16 @@
 
 ## Getting Started
 
+To deploy this Monitoring Box you should have AWSCli , Kubectl on your system. This Monitor Box is designed for Kubernetes and ECS based Miroservice Infrastructure .
+
 ## Interroduction
 
 Microservices give you flexibility , hyperscale  and room to grow and we observed some highlighted a series of challenges for monitoring cloud-native container-based systems, and introduced microservice monitoring , alerting and visualisation tool, which may assist devops with testing microservice monitoring at scale.
 
 This Code will deploy the monitoring box on AWS-ECS environment using CloudFormation .Through this Box you can Monitor Kubernetes & ECS cluster Monitoring along with Kafka Monitoring ,CouchbaseDB Monitoring , LoadBalancer Monitoring and JVM & Application Monitoring .
+
+
+##  Deployment
 
 - Setup a new VPC with public and private subnets .
 - A highly available Monitoring-Box deployed on ECS Cluster across two [Availability Zones] with persitance storage (EBS).
@@ -50,8 +55,6 @@ This Code will deploy the monitoring box on AWS-ECS environment using CloudForma
 - ALB host based routes for each ECS service to route the inbound traffic to the correct service.
 - Centralized Monitoring-Box logging with Amazon CloudWatch Logs .
 - Setup SecurityGroup for ALB and ECS Node to manage inbound traffic.
-
-##  Monitoring-Box Infrastructure Deployment
 
 The templates below are included in this repository and reference architecture:
 
