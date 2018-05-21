@@ -38,13 +38,13 @@
 
 ## Getting Started
 
-To deploy this Monitoring Box you should have AWSCli , Kubectl on your system. This Monitor Box is designed for Kubernetes and ECS based Miroservice Infrastructure .
+To deploy this Monitoring Box you should have AWSCli ,Kubectl on your system. This Monitor Box is designed for Kubernetes and ECS based Miroservice Infrastructure.
 
-## Interroduction
+## Introduction
 
 Microservices give you flexibility , hyperscale  and room to grow and we observed some highlighted a series of challenges for monitoring cloud-native container-based systems, and introduced microservice monitoring , alerting and visualisation tool, which may assist devops with testing microservice monitoring at scale.
 
-This Code will deploy the monitoring box on AWS-ECS environment using CloudFormation .Through this Box you can Monitor Kubernetes & ECS cluster Monitoring along with Kafka Monitoring ,CouchbaseDB Monitoring , LoadBalancer Monitoring and JVM & Application Monitoring .
+This Code will deploy a monitoring box on AWS-ECS environment using CloudFormation .Through this Box you can Monitor Kubernetes & ECS cluster Monitoring along with Kafka Monitoring ,CouchbaseDB Monitoring , LoadBalancer Monitoring and JVM & Application Monitoring.
 
 
 ##  Deployment
